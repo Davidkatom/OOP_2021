@@ -1,0 +1,155 @@
+tests For: SumDiv
+test # 1
+Invalid input
+test # 2
+Invalid input
+test # 3
+Invalid input
+test # 4
+Invalid input
+test # 5
+Invalid input
+test # 6
+Invalid input
+test # 7
+Invalid input
+test # 8
+0
+test # 9
+1
+2
+3
+4
+5
+6
+21
+test # 10
+Invalid input
+test # 11
+Invalid input
+test # 12
+Invalid input
+test # 13
+Invalid input
+test # 14
+Invalid input
+test # 15
+Invalid input
+test # 16
+Invalid input
+test # 17
+3
+4
+6
+8
+9
+30
+test # 18
+6
+6
+test # 19
+6
+6
+test # 20
+6
+10
+16
+test # 21
+Invalid input
+test # 22
+Invalid input
+test # 23
+Invalid input
+test # 24
+Invalid input
+tests For: Fermat
+test # 1
+Invalid input
+test # 2
+Invalid input
+test # 3
+Invalid input
+test # 4
+Invalid input
+test # 5
+Invalid input
+test # 6
+Invalid input
+test # 7
+Invalid input
+test # 8
+Invalid input
+test # 9
+Invalid input
+test # 10
+Invalid input
+test # 11
+no
+test # 12
+3,4,5
+5,12,13
+6,8,10
+7,24,25
+8,15,17
+9,12,15
+10,24,26
+12,16,20
+15,20,25
+20,21,29
+test # 13
+no
+test # 14
+Invalid input
+tests For: Str
+test # 1
+Invalid input
+test # 2
+Invalid input
+test # 3
+Invalid input
+test # 4
+test # 5
+test # 6
+test # 7
+did
+die
+test # 8
+Invalid input
+test # 9
+Invalid input
+test # 10
+it
+got
+executed
+test # 11
+did
+die
+test # 12
+test # 13
+Invalid input
+test # 14
+Invalid input
+test # 15
+cant
+because
+test # 16
+C
+test # 17
+cant
+c
+because
+test # 18
+Invalid input
+test # 19
+b
+bad
+test # 20
+be
+beautiful
+be
+bebe
+bumblebee
+test # 21
+better
+bet
+gobet

@@ -1,0 +1,3 @@
+tests For: SumDiv
+test # 1
+Invalid input
